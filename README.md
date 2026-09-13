@@ -59,6 +59,8 @@ netflix-analysis-dashboard/
    ├── app.py
    ├── requirements.txt
    ├── netflix_titles.csv
+   ├── screenshot1.png
+   ├── .gitignore
    └── README.md
 ```
 
