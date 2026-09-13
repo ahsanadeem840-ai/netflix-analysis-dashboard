@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s001,Movie,The Silent Code,Aisha Khan,"Ali Raza, Sara Ahmed",Pakistan,"January 5, 2024",2023,TV-14,118 min,"Dramas, Thrillers",A programmer discovers a hidden code that changes everything.
+s002,TV Show,City Lights,Omar Farooq,"Hina Malik, Usman Tariq",Pakistan,"February 12, 2024",2022,TV-PG,2 Seasons,"Dramas, Romance",A young journalist follows stories across a busy city.
+s003,Movie,Ocean Quest,James Carter,"Daniel Smith, Emma Brown",United States,"March 20, 2024",2024,PG-13,105 min,"Action, Adventure",A team sets out on an exciting journey across the ocean.
+s004,TV Show,Code Masters,Nadia Wilson,"John Lee, Maria Stone",United Kingdom,"April 8, 2024",2023,TV-14,1 Season,"Documentaries, Technology",A group of developers compete to solve challenging problems.
+s005,Movie,The Last Journey,David Miller,"Robert King, Emily Rose",Canada,"May 15, 2024",2021,PG,97 min,"Adventure, Dramas",Two friends begin a journey that changes their lives.
+s006,Movie,Hidden Truth,Fatima Noor,"Ahmed Hassan, Zara Ali",Pakistan,"June 3, 2024",2024,TV-14,110 min,"Thrillers, Mysteries",A detective investigates a mysterious case with unexpected clues.
+s007,TV Show,Future World,Michael Brown,"Chris Evans, Laura Green",United States,"July 11, 2024",2020,TV-14,3 Seasons,"Science Fiction, Dramas",People try to survive in a rapidly changing futuristic world.
+s008,Movie,Laugh Out Loud,Sofia Martin,"Jack Wilson, Lily Adams",Australia,"August 22, 2024",2023,PG,92 min,Comedies,A group of friends gets into a series of funny situations.
+s009,TV Show,Wild Planet,Daniel Scott,"Mark Taylor, Anna White",United Kingdom,"September 9, 2024",2022,TV-G,1 Season,"Documentaries, Nature",An exploration of amazing wildlife and natural environments.
+s010,Movie,Dream Chasers,Sarah Johnson,"Noah Clark, Mia Davis",India,"October 18, 2024",2024,PG-13,125 min,"Dramas, Inspirational",Young entrepreneurs work hard to turn their dreams into reality.
